@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pigg/pigg.iml" filepath="$PROJECT_DIR$/pigg/pigg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pigg-parent.iml" filepath="$PROJECT_DIR$/pigg-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pigg-user/pigg-user.iml" filepath="$PROJECT_DIR$/pigg-user/pigg-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pigg-user/pigg-user-api/pigg-user-api.iml" filepath="$PROJECT_DIR$/pigg-user/pigg-user-api/pigg-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pigg-user/pigg-user-consumer/pigg-user-consumer.iml" filepath="$PROJECT_DIR$/pigg-user/pigg-user-consumer/pigg-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pigg-user/pigg-user-provider/pigg-user-provider.iml" filepath="$PROJECT_DIR$/pigg-user/pigg-user-provider/pigg-user-provider.iml" />
+    </modules>
+  </component>
+</project>
